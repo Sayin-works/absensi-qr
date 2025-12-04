@@ -16,7 +16,7 @@
                     <h5 class="card-title">Informasi Sekolah</h5>
                     
                     <a href="{{ route('information.index') }}" class="btn btn-primary">
-                        📰 Kelola Informasi
+                        📰 Kelola Informasi sekolah 
                     </a>
                 </div>
             </div>
