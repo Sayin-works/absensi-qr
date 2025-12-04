@@ -6,5 +6,5 @@
         @endforeach
     </ul>
 @else
-    <h2>Data siswa tidak ditemukan untuk akun ini.</h2>
+    <h2>Data siswa tidak ditemukan untuk akun ini. silahkan di absen</h2>
 @endif
